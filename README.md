@@ -1,2 +1,2 @@
-# OAZ---Website
+# OAZ - Website
 Projeto OAZ
